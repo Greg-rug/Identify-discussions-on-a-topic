@@ -9,30 +9,3 @@ Evaluation : Fairness of the process of assessing or estimating the quality, imp
 Authorship : Fairness of crediting contributors for their contributions
 Policy : Fairness of a set of ideas or a plan of what to do in particular situations that has impact on SE
 Customer or Client Relations : Fairness in there relationship between customers/clients and software practitioners or software companies
-
-Answer:
-= 35.8377% decrease
-Solution:
-Calculate percentage change
-from Starting Value = 61.36
-to Final Value = 39.37
-(Final−Start)/|Start|×100
-=(39.37−61.36)/|61.36|×100
-=−21.99/61.36×100
-=−0.358377×100
-=−35.8377%change
-=35.8377%decrease
-
-Answer:
-= 25.9081% decrease
-Solution:
-Calculate percentage change
-from Starting Value = 39.37
-to Final Value = 29.17
-(Final−Start)|Start|×100
-=(29.17−39.37)|39.37|×100
-=−10.239.37×100
-=−0.259081×100
-=−25.9081%change
-=25.9081%decrease
-
